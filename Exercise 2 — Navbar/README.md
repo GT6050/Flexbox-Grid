@@ -1,4 +1,4 @@
-# Exercise 2 — Navbar (15 min)
+# Exercise 2 — Navbar
 
 Create a header with:
 
