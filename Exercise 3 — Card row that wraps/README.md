@@ -1,4 +1,6 @@
-# Exercise 3 — Card row that wraps Make 8 cards in a container:
+# Exercise 3 — Card row that wraps
+
+Make 8 cards in a container:
 
 Cards should form rows
 
